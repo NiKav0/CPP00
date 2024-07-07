@@ -15,3 +15,15 @@ PhoneBook::~PhoneBook(void) {
 	std::cout << "PhoneBook destructor called" << std::endl;
 	return;
 }
+
+void PhoneBook::add(void){
+    std::string values;
+    // while(std::getline(std::cin,values ))
+    // {
+    //     std::
+    // }
+}
+
+void PhoneBook::search(void) {
+
+}
