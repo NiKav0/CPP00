@@ -3,12 +3,14 @@
 
 # include <iostream>
 # include <string>
+#include <iomanip>
 # include "Contact.hpp"
 
 class PhoneBook {
 
 private:
 	Contact _contact[8];
+	int _contact_index;
 public:
 	PhoneBook(void);
 	~PhoneBook(void);
