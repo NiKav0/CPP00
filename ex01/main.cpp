@@ -15,7 +15,8 @@ int main(void) {
 			exit(0);
 		}
 		else
-			std::cout << "You might enter either \"ADD\" or \"SEARCH\" or \"EXIT\"." << std::endl;
+			std::cout << "You might wanna enter either \"ADD\" or \"SEARCH\" or \"EXIT\"." << std::endl;
     }
 	return 0;
 }
+ 
