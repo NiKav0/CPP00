@@ -3,6 +3,7 @@
 
 int main(void) {
 	PhoneBook pb;
+	Contact ct;
 	std::string values;
     while(std::getline(std::cin,values))
     {

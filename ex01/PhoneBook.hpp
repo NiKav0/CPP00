@@ -7,7 +7,6 @@
 # include "Contact.hpp"
 
 class PhoneBook {
-
 private:
 	Contact _contact[8];
 	int _contact_index;
